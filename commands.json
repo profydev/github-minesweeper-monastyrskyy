@@ -5,10 +5,13 @@
     "clear G2",
     "flag E4",
     "flag C2",
-<<<<<<< HEAD
-    "clear A6"
-=======
-    "clear A6" 
->>>>>>> 469065dd9e3a3fc0647b5a01e41a3405c569101c
+    "clear A6",
+    "flag G5",
+    "flag H5",
+    "clear C1",
+    "clear C3",
+    "clear C4",
+    "clear D4",
+    "clear F5"
   ]
 }
